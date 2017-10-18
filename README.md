@@ -59,3 +59,35 @@ ALNNSIGVLGVAPSASLYAVKVLGADGSGQYSWIINGIEWAIANNMDVINMSLGGPSGSA
 ALKAAVDKAVASGVVVVAAAGNEGTSGSSSTVGYPGKYPSVIAVGAVDSSNQRASFSSVG
 PELDVMAPGVSIQSTLPGNKYGAYNGTSMASPHVAGAAALILSKHPNWTNTQVRSSLENT
 TTKLGDSFYYGKGLINVQAAAQ
+
+
+
+# Segunda clase 
+
+caracterizar, estructurar y funcional, de una proteina a partir de sus secuencia
+
+1YPH (P00766) 
+
+PFAM 1
+
+SUPFAM 1 
+
+
+## proceso evolutivo de la serin proteasa
+
+### Prosite mas avanzada que uniprot
+
+
+hits by patterns: indica los patrones conservados
+codigo pfam , uniprot y subfam
+
+1ags y 1agp en prosite 
+
+
+PFAM su pag entrega informacion de proteinas homologasy es mas curada
+
+pag interprot (pfam + prosite + uniprot) hace alineamientos multiples, usa cadenas cortas de markov
+
+Detailed signature matches 
+
+http://www.bioinformatics.org/sms2/ herramienta de manipulacion de secuencia ---< mutate protein
